@@ -1,39 +1,44 @@
-# BextTeste
+<h1 align="center" id="title">VoejaTeste</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p id="description">Projeto de cadastro de formulário feito como teste de habilidades para a vaga de Dev Frontend em VOEJA.</p>
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<h2>🛠️ Installation Steps:</h2>
 
-## Type Support for `.vue` Imports in TS
+<p>1. Clone o repositório</p>
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+git clone https://github.com/stkghost/BextTeste.git
 ```
 
-### Compile and Hot-Reload for Development
+<p>2. Instale as dependências</p>
 
-```sh
-npm run dev
+```
+npm install #or yarn install
 ```
 
-### Type-Check, Compile and Minify for Production
+<p>3. Rode o servidor local</p>
 
-```sh
-npm run build
+```
+npm run dev #or yarn dev
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+<p>4. Abra seu navegador e navegue até:</p>
 
-```sh
-npm run lint
 ```
+http://localhost:5173
+
+```
+
+## 🖥️ Tecnologias Utilizadas
+
+- [Vue.js](https://vuejs.org) - Um framework baseado em Javascript para construção de aplicações web.
+- [TypeScript](https://www.typescriptlang.org/) - Para verificação de tipos estáticos.
+
+---
+
+## 📚 Links de Documentação
+
+- [Documentação do Vue.js](https://vuejs.org/guide/introduction.html)
+- [Documentação do TypeScript](https://www.typescriptlang.org/docs/)

@@ -1,9 +1,3 @@
-<h1 align="center" id="title">VoejaTeste</h1>
-
-<p id="description">Projeto de cadastro de formulário feito como teste de habilidades para a vaga de Dev Frontend em VOEJA.</p>
-
----
-
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone o repositório</p>
@@ -30,6 +24,21 @@ npm run dev #or yarn dev
 http://localhost:5173
 
 ```
+
+---
+
+Projeto de Login mockado + Todo List construído em Vue js para teste de habilidades para a vaga de Dev Frontend em Bext.
+
+Como primeiro contato desenvolvendo com o framework Vue, tive algumas dificuldades com a familiaridade da tecnologia.
+Após algum tempo lendo e estudando o básico, consegui construir a página de Login e validar os campos utilizando o State manager Pinia, me lembrou um pouco o Zustand.
+
+Tive alguns problemas com o vue-router, mas acredito estar no caminho certo para dominar a ferramenta.
+
+Vue js parece ter uma curva de aprendizado rápida, considerando que muitas coisas são agnósticas de framework na web.
+
+Agradeço a oportunidade de testar e aprender um pouco sobre a tecnologia :)
+
+---
 
 ## 🖥️ Tecnologias Utilizadas
 
